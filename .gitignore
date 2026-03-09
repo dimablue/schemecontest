@@ -1,11 +1,10 @@
-# Berkeley course infrastructure (not for redistribution)
-scheme/
-abstract_turtle/
+# Not needed to run
 editor/
 tests/
 __pycache__/
 ok
 proj04contest.ok
-ucb.py
-scheme_tokens.py
 output.ps
+
+# macOS
+.DS_Store
