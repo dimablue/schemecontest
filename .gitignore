@@ -1,0 +1,11 @@
+# Berkeley course infrastructure (not for redistribution)
+scheme/
+abstract_turtle/
+editor/
+tests/
+__pycache__/
+ok
+proj04contest.ok
+ucb.py
+scheme_tokens.py
+output.ps
