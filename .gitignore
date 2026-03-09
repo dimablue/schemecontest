@@ -1,9 +1,14 @@
-# Not needed to run
+# Contains course solutions - not for redistribution
+scheme_tokens.py
 editor/
-tests/
-__pycache__/
+
+# Autograder / course tooling
 ok
 proj04contest.ok
+tests/
+__pycache__/
+
+# Output / artifacts
 output.ps
 
 # macOS
