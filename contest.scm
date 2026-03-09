@@ -2,7 +2,7 @@
 ;;;
 ;;; Please do not include your name or personal info in this file.
 ;;;
-;;; Title: <Your title here>
+;;; Title: <Cloudy the Great>
 ;;;
 ;;; Description:
 ;;;   <a minimalist portrait of my cat,
