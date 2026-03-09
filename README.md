@@ -1,0 +1,1 @@
+i made this drawing for cs61a's scheme recursive art contest when i was a wide-eyed freshman as a tribute to my cat, cloudy. the drawing was terribly simplistic, but i hoped it'd capture her essence regardless.
